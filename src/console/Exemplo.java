@@ -10,5 +10,7 @@ package console;
  * @author Visitante7
  */
 public class Exemplo {
-    
+    public Exemplo() {
+        
+    }
 }
