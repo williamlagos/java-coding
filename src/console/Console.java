@@ -15,6 +15,8 @@ public class Console {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("Hello World!");
+        System.exit(0);
         // TODO code application logic here
     }
     
