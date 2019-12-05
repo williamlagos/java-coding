@@ -6,7 +6,7 @@
 package console;
 
 /**
- *
+ * Classe console para entrada e saída de texto
  * @author Visitante7
  */
 public class Console {
