@@ -15,6 +15,11 @@ public class Console {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        int contador = 0;
+        while(contador < 5) {
+            System.out.println(contador);
+            contador++;
+        }
         System.out.println("Hello World!");
         System.exit(0);
         // TODO code application logic here
