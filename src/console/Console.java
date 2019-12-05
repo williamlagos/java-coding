@@ -25,6 +25,7 @@ public class Console {
         }
         contador = 0;
         System.out.println("Hello World!");
+        System.out.println("Olá mundo!");
         System.exit(0);
         // TODO code application logic here
     }
