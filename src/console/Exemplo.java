@@ -12,5 +12,6 @@ package console;
 public class Exemplo {
     public Exemplo() {
         String senha = "123456";
+        int numero = 0;
     }
 }
