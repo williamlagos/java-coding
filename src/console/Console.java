@@ -30,4 +30,15 @@ public class Console {
         // TODO code application logic here
     }
     
+    /**
+      * Retorna um número calculado 
+      *
+      * @param  numero1 Primeiro operador a ser calculado 
+      * @param  numero2 Segundo operador a ser calculado
+      * @return      Número calculado
+      */
+    public int calculaNumero(int numero1, int numero2) {
+        return numero1 + numero2;
+    }
+    
 }
