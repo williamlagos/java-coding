@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-10-07T21:36:42</date>
+  <millis>1412728602267</millis>
+  <sequence>0</sequence>
+  <logger>batalhanaval.Server</logger>
+  <level>INFO</level>
+  <class>batalhanaval.Server</class>
+  <method>start</method>
+  <thread>1</thread>
+  <message>RMI registry ready.</message>
+</record>
+<record>
+  <date>2014-10-07T21:36:42</date>
+  <millis>1412728602568</millis>
+  <sequence>1</sequence>
+  <logger>batalhanaval.Server</logger>
+  <level>INFO</level>
+  <class>batalhanaval.Server</class>
+  <method>start</method>
+  <thread>1</thread>
+  <message>BattleServer is ready.</message>
+</record>
+<record>
+  <date>2014-10-07T21:37:07</date>
+  <millis>1412728627530</millis>
+  <sequence>2</sequence>
+  <logger>batalhanaval.Server</logger>
+  <level>INFO</level>
+  <class>batalhanaval.Server</class>
+  <method>registraUsuario</method>
+  <thread>17</thread>
+  <message>User William registered in ID 0</message>
+</record>
+<record>
+  <date>2014-10-07T21:37:23</date>
+  <millis>1412728643717</millis>
+  <sequence>3</sequence>
+  <logger>batalhanaval.Server</logger>
+  <level>INFO</level>
+  <class>batalhanaval.Server</class>
+  <method>registraUsuario</method>
+  <thread>23</thread>
+  <message>User Eduardo registered in ID 1</message>
+</record>
+<record>
+  <date>2014-10-07T21:41:52</date>
+  <millis>1412728912816</millis>
+  <sequence>4</sequence>
+  <logger>batalhanaval.Server</logger>
+  <level>INFO</level>
+  <class>batalhanaval.Server</class>
+  <method>registraUsuario</method>
+  <thread>27</thread>
+  <message>User Mateus registered in ID 2</message>
+</record>
+<record>
+  <date>2014-10-07T21:41:55</date>
+  <millis>1412728915639</millis>
+  <sequence>5</sequence>
+  <logger>batalhanaval.Server</logger>
+  <level>INFO</level>
+  <class>batalhanaval.Server</class>
+  <method>registraUsuario</method>
+  <thread>28</thread>
+  <message>User Gabriel registered in ID 3</message>
+</record>
